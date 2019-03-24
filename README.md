@@ -20,6 +20,7 @@ was superseceded by the Google Colab Workbook.
 
 https://colab.research.google.com/drive/1kNMixUoJhd4tQQBVFLmizZJMNON1rv3I
 The CSV containing 50% of the image data was uploaded to github and the notebook will fetch the file from there, so there should be no need to download anything to your computer to run the colab notebook. Please let me know if there is something wrong with it. 
+
 Trains the CNN, feature engineering and the other base models. Also visualizes the layers of the CNN
 The results were downloaded to model_results.csv for analysis in model_images.R and plotting.R
 
