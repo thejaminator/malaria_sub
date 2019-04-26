@@ -1,5 +1,7 @@
 # Malaria Submission
 
+See the PDF for the report
+
 ## 1. data_prep.R 
 
 Script to process the images into matrix, for use in subsequent files. Requires the download of theses files 
