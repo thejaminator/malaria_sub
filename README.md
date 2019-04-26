@@ -1,6 +1,6 @@
 # Malaria Submission
 
-See the PDF [file.pdf](Artificial-Intelligence-Offers-a-Better-Way-to-Diagnose-Malaria.pdf) for the report
+See the [pdf](Artificial-Intelligence-Offers-a-Better-Way-to-Diagnose-Malaria.pdf) for the report
 
 ## 1. data_prep.R 
 
