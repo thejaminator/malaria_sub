@@ -1,5 +1,6 @@
 # Malaria Submission
 
+Malaria is a widespread and life-threatening disease. Existing manual detection methods depends highly on the experience and skill of the microscopist. We train a Convolutional Neural Network to automate this process of detecting malaria cells.
 See the [pdf](Artificial-Intelligence-Offers-a-Better-Way-to-Diagnose-Malaria.pdf) for the report
 
 ## 1. data_prep.R 
