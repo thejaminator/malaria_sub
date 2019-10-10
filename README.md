@@ -4,7 +4,7 @@ Malaria is a widespread and life-threatening disease. Existing manual detection 
 See the [pdf](Artificial-Intelligence-Offers-a-Better-Way-to-Diagnose-Malaria.pdf) for the report
 
 
-## 1.One click link to Model Training Notebook 
+## Model Training Notebook 
 
 https://colab.research.google.com/drive/1kNMixUoJhd4tQQBVFLmizZJMNON1rv3I
 The CSV containing 50% of the image data was uploaded to github and the notebook will fetch the file from there, so there should be no need to download anything to your computer to run the colab notebook. Please let me know if there is something wrong with it. 
